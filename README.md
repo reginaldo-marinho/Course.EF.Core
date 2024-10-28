@@ -1,3 +1,5 @@
+- Premissas
+    - Para cada projeto, incluir o comando CLI usuado
 - Introdução
 - EF
     - `--startup-project`
